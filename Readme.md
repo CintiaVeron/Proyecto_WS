@@ -72,7 +72,7 @@ El sistema de recomendación utiliza los datos procesados para sugerir productos
 
 ### 📈 **Características Clave**
 - Entrada: Nombre de un producto.
-- Salida: 5 productos similares basados en características (nombre, marca, etc.).
+- Salida: 5 productos similares basados en características (precio,reseña).
 
 
 ## 🌐 Desploy
