@@ -26,7 +26,7 @@ El módulo de scraping se encarga de extraer información de productos como:
 
 ### ⚖️ **Ejemplo de Uso**
 ```bash
-python scraper.py
+python scraper_productos.py
 ```
 
 ### 📄 **Salidas**
